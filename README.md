@@ -6,4 +6,4 @@ Thanks to everyone who attended! :)
 #### Navigate to:
 Link to [item variation script](script-from-talk.lua) <br>
 Link to [extended version of item variation script](/item-volume-variation.lua) <br>
-Link to [Resources](Resources.md)
+Link to [resources](Resources.md)
