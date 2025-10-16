@@ -10,7 +10,7 @@
 ###### [Variables](#variables-1)
 ###### [Conditions](#conditions-1)
 ###### [Tables and Loops](#tables-and-loops-1)
-### Writing a Reaper script from scratch
+### [Writing a Reaper script from scratch](#writing-a-reaper-script-from-scratch-1)
 ###### [Pseudocode](#pseudocode-1)
 ###### Writing the script task by task
 ###### Additional features
@@ -462,6 +462,7 @@ Running the above code the console will output this (maybe in a different order)
 
 So the `pairs` function actually knows when the loop ends (when there are no more items to iterate through).
 
+# Writing a Reaper script from scratch
 ## Pseudocode
 
 Before we go into the final part of syntax we need to learn, let's talk a little bit about approaches to writing code.
