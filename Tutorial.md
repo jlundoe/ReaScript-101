@@ -12,8 +12,6 @@
 ###### [Tables and Loops](#tables-and-loops-1)
 ### [Writing a Reaper script from scratch](#writing-a-reaper-script-from-scratch-1)
 ###### [Pseudocode](#pseudocode-1)
-###### Writing the script task by task
-###### Additional features
 
 # Introduction
 
